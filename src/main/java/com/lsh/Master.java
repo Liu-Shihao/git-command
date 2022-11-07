@@ -8,6 +8,6 @@ package com.lsh;
 public class Master {
     public static void main(String[] args) {
         System.out.println("this is master branch");
-        System.out.println("version 1");
+        System.out.println("version 2");
     }
 }
