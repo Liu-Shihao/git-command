@@ -5,7 +5,7 @@ package com.lsh;
  * @Date: 2022/11/7 15:08
  * @Desc:
  */
-public class Dev {
+public class Master {
     public static void main(String[] args) {
         System.out.println("this is master branch");
         System.out.println("commit version 5");
