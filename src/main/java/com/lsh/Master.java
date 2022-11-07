@@ -7,6 +7,6 @@ package com.lsh;
  */
 public class Master {
     public static void main(String[] args) {
-        System.out.println("this is master bance");
+        System.out.println("this is master branch");
     }
 }
