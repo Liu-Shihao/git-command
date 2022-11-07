@@ -9,5 +9,8 @@ public class Master {
     public static void main(String[] args) {
         System.out.println("this is master branch");
         System.out.println("commit version 5");
+        System.out.println("this is Dev branch");
+        System.out.println("this is master branch");
+        System.out.println("commit version 4");
     }
 }
