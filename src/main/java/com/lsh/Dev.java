@@ -17,6 +17,6 @@ public class Master {
         System.out.println("version 2");
         System.out.println("this is Dev branch");
         System.out.println("this is master branch");
-        System.out.println("commit version 4");
+        System.out.println("commit version 5");
     }
 }
